@@ -6,6 +6,7 @@ SQL Practice
 In this  notebook we have ten prompts. Each prompt will require you to do two things:
 
 > Write a SQL query.
+>
 > Use the result of that query to answer the question.
 
 ## Data

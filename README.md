@@ -3,7 +3,7 @@ SQL Practice
 
 ## The purpose of this lab is to practice SQL - an important skill in data science!
 
-In this  notebook we have ten prompts. Each prompt will require you to do two things:
+In this  notebook we have ten prompts. Each prompt will require two things:
 
 > Write a SQL query.
 >
